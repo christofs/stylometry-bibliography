@@ -1,5 +1,7 @@
 # Stylometry Bibliography
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.437118.svg)](https://doi.org/10.5281/zenodo.437118)
+
 Bibtex copy of the Zotero bibliography on Stylometry: https://www.zotero.org/groups/stylometry_bibliography
 
 # Description
