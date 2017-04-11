@@ -36,7 +36,7 @@ We have you covered if rather than an exhaustive (and exhausting) list of readin
 There are two ways to access this limited list of recommended readings:
 
 * In the online bibliography, a certain number of items are tagged with the keyword “recommended”: They can be found online at the following link: https://www.zotero.org/groups/stylometry_bibliography/items/tag/recommended.
-* You can download a nicely formatted version of this list of recommended readings at the following link (forthcoming; so, actually, there is only one way to access the list right now).
+* You can download a nicely formatted version of this list of recommended readings at the following link: https://github.com/christofs/stylometry-bibliography/tree/master/recommended.
 
 ## Who’s behind the bibliography?
 
