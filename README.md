@@ -31,7 +31,7 @@ This size and our limited resources also means the bibliography is not perfect a
 
 ## What if I just need some introductory readings?
 
-We have you covered if rather than an exhaustive (and exhausting) list of readings, you need a manageable number of recommended introductory readings instead. For this purpose, we have defined a list of publications we consider particularly useful or important in this scenario. It contains three types of entries: either survey papers that help newcomers get a grip of the history and structure of the field; or outstanding papers that have proven to be milestones in the history of stylometry; or outstanding applications of stylometry to problems of authorship or other issues that demonstrate best practices or showcase the usefulness of stylometry in various areas.
+We have you covered if rather than an exhaustive (and exhausting) list of readings, you need a manageable number of recommended introductory readings instead. For this purpose, we have defined a list of publications we consider particularly useful or important in this scenario. It contains four types of entries: papers that have proven to be milestones in the history of stylometry; survey papers, overviews and introductions that help newcomers get a grip of the history and structure of the field; important papers on more specific methodological aspects; and applications of stylometry to problems of authorship or other issues that demonstrate best practices or showcase the usefulness of stylometry in various areas.
 
 There are two ways to access this limited list of recommended readings:
 
